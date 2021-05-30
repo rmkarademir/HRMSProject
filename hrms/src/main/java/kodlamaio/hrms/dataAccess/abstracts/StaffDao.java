@@ -1,4 +1,4 @@
-package kodlamaio.hrms.entities.abstracts;
+package kodlamaio.hrms.dataAccess.abstracts;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
